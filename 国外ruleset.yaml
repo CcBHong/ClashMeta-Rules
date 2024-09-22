@@ -1,0 +1,5 @@
+payload:
+- geosite,paypal
+- geosite,amazon
+- geosite,netflix
+- geosite,geolocation-!cn

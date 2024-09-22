@@ -1,0 +1,14 @@
+payload:
+ - PROCESS-NAME,qq.exe
+ - PROCESS-NAME,weixin.exe
+ - PROCESS-NAME,wemeetapp.exe 
+ - PROCESS-NAME,firefox.exe
+ - PROCESS-NAME,OfficeEdit.exe
+ - PROCESS-NAME,KuGou.exe
+ - PROCESS-NAME,WXWorkLocal.exe
+ - PROCESS-NAME,Aboboo.exe
+ - PROCESS-NAME,Thunder.exe
+
+
+
+

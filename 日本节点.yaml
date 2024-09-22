@@ -1,0 +1,9 @@
+payload:
+- DOMAIN-SUFFIX,madonna-av.com
+- DOMAIN-SUFFIX,mgstage.com
+- PROCESS-NAME,MGS Player.exe
+- DOMAIN-KEYWORD,mgstage
+- DOMAIN-SUFFIX,jp
+- DOMAIN-SUFFIX,honnaka.jp
+- DOMAIN-SUFFIX,fc2.com
+
